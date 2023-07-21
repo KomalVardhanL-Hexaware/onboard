@@ -1,3 +1,3 @@
 # onboard
 
-Core logic for repository parsing, summarization, and embedding
+[Just ask us](https://www.getonboard.dev/chat/onboardai/onboard)https://www.getonboard.dev/chat/onboardai/onboard
