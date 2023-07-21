@@ -1,3 +1,3 @@
 # onboard
 
-[Just ask us](https://www.getonboard.dev/chat/onboardai/onboard)https://www.getonboard.dev/chat/onboardai/onboard
+[Just ask us](https://www.getonboard.dev/chat/onboardai/onboard)
